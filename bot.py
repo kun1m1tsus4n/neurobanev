@@ -9,7 +9,7 @@ from collections import deque
 
 # --- Глобальные настройки ---
 # Максимальное количество сообщений для хранения в истории каждого чата
-MAX_HISTORY_LENGTH = 10 
+MAX_HISTORY_LENGTH = 150 
 
 # Настройка логирования
 logging.basicConfig(
